@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAFBAUAAAAABQACAAUAAAAAQEIAAAAAAFAgJQUAAAAAACQiBAAAAAAAJCUEAAAAAAAlIgQAAAAAACQlBAAAAAAAJCUEAAAAAAAiJQIAAAAAAFJUAgAAAAAAUlQCAAAAAABSUQIAAAAAACAhAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blaster_Fire_Right"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAACAAAAAAAAICEAAAAAAABSUQIAAAAAAFJUAgAAAAAAUlQCAAAAAAAiJQIAAAAAACQlBAAAAAAAJCUEAAAAAAAlIgQAAAAAACQlBAAAAAAAJCIEAAAAAFAgJQUAAAAAAEBCAAAAAAAFAAIABQAAAAAFBAUAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Blaster_Fire_Left"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
