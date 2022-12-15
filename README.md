@@ -1,33 +1,13 @@
  
+# IW & Game Design - Crashing Astromo 
+Wat een gewone routinemissie naar het internationale ruimtestation moest worden, draait al snel in de soep. Door een buitengewoon sterke zonnevlam slaan de systemen op het ruimteschip van Astromo uit! Er zat niets anders op dan een gevaarlijke noodlanding maken op de Maan ... Wanneer Astromo ontwaakt, liggen de brokstukken van het ruimteschip verspreid over het maanoppervlak. Alleen door ze allemaal te verzamelen kan hij een reddingsschip bouwen en terug naar huis keren. Maar Astromo lijkt niet alleen te zijn op de Maan. Door de harde crash lijken er groene wezens uit de kern van de satelliet te zijn ontsnapt. Help jij Astromo veilig terug te keren naar de Aarde?
+
+De game kan je spelen via volgende link: 
+https://robbew.github.io/crashing_astromo/
+
+Meer informatie over dit project vind je via volgende link: 
+https://www.robbewulgaert.be/onderwijs/wall-of-game
 
 
-> Open this page at [https://robbew.github.io/crashing_astromo/](https://robbew.github.io/crashing_astromo/)
 
-## Use as Extension
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/robbew/crashing_astromo** and import
-
-## Edit this project ![Build status badge](https://github.com/robbew/crashing_astromo/workflows/MakeCode/badge.svg)
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/robbew/crashing_astromo** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/robbew/crashing_astromo/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
